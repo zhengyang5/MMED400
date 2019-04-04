@@ -7,4 +7,6 @@ The links of the images are included and can be downloaded from the URLs. (You c
 
 Reference:
 
-Zhenguo Yang, Zehang Lin, Min Cheng, Qing Li, and Wenyin Liu, "MMED: A Multi-domain and Multi-modality Event Dataset", ACM Multimedia System Conference 2019, submitted.
+Zhenguo Yang, Zehang Lin, Min Cheng, Qing Li, and Wenyin Liu, "MMED: A Multi-domain and Multi-modality Event Dataset".
+
+For any question regarding the dataset, please contact Dr. Zhenguo Yang (zhengyang5-c@my.cityu.edu.hk). The raw images can be obtained via sending a request email to us. Specifically, the researchers interested in the dataset should download and fill up the **Dataset Agreement Form** and send it back to us.
