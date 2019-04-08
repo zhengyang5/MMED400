@@ -7,3 +7,5 @@ Reference:
 Zhenguo Yang, Zehang Lin, Min Cheng, Qing Li, and Wenyin Liu, "MMED: A Multi-domain and Multi-modality Event Dataset", Manuscript.
 
 For any question regarding the dataset, please contact Dr. Zhenguo Yang (zhengyang5-c@my.cityu.edu.hk). Specifically, the researchers interested in the dataset should download and fill up the **Dataset Agreement Form** and send it back to us.
+
+The links of the images are included and can be downloaded from the URLs. (You can also obtain images from this [URL](https://mail2gduteducn-my.sharepoint.com/:f:/g/personal/2111605074_mail2_gdut_edu_cn/Ep5EETZNJpJEl9wYuvEIUDgBOxNCqHINb6F982-dAdPTzA?e=dsLvkz) and texts from this [URL](https://mail2gduteducn-my.sharepoint.com/:f:/g/personal/2111605074_mail2_gdut_edu_cn/Ej6JjYYPuHZJi20We18yIrIBm8WuPzvrQQe39z9haeBypw?e=hrfzEg).
