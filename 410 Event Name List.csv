@@ -1,0 +1,411 @@
+Event ID,Event name,Number of articles,Number of images
+E1,2015 Tianjin explosions,71,200
+E2,2015 East Village gas explosion,14,159
+E3,2016 Fort McMurray wildfire,92,189
+E4,Valley Fire,16,42
+E5,2014 Kaohsiung gas explosions,61,109
+E6,2014 East Harlem gas explosion,26,151
+E7,2015 Washington wildfires,28,184
+E8,2016 Kumamoto earthquakes,25,138
+E9,2016 Taiwan earthquake,37,23
+E10,April 2015 Nepal earthquake,221,398
+E11,2014 South Napa earthquake,17,115
+E12,Carlton Complex Fire,15,27
+E13,2014 Southeast Europe floods,39,96
+E14,Indonesia AirAsia Flight 8501,103,83
+E15,"Egyptian constitutional referendum, 2014",17,75
+E16,"Costa Rican general election, 2014",11,74
+E17,"Afghan presidential election, 2014",51,257
+E18,2014-15 Malaysia floods,62,130
+E19,Greek government-debt crisis,157,200
+E20,United States housing bubble,57,200
+E21,Expo 2010,14,500
+E22,2014 Hong Kong protests,262,113
+E23,Umbrella Movement,111,1080
+E24,Sunflower Student Movement,91,416
+E25,Euromaidan,18,792
+E26,Google bus protests,18,797
+E27,Ferguson Action,11,111
+E28,Azadi March,59,375
+E29,2015 United States H5N2 outbreak,10,12
+E30,"Nigerian general election, 2015",35,64
+E31,"Israeli legislative election, 2015",134,143
+E32,"United Kingdom general election, 2015",183,214
+E33,"Turkish general election, June 2015",20,122
+E34,"Greek bailout referendum, 2015",29,18
+E35,"Singaporean general election, 2015",46,123
+E36,"Greek legislative election, September 2015",13,41
+E37,"Belarusian presidential election, 2015",12,149
+E38,"Guinean presidential election, 2015",14,40
+E39,2013-14 Cambodian protests,37,188
+E40,2014 Glasgow bin lorry crash,39,84
+E41,2014 Hungarian Internet tax protests,14,204
+E42,2014 May Day protests,14,59
+E43,APEC Peru 2016,22,399
+E44,APEC Philippines 2015,41,71
+E45,Egypt Economic Development Conference,15,22
+E46,Flint water crisis,428,86
+E47,General Motors ignition switch recalls,52,10
+E48,Paris Agreement,46,143
+E49,People's Climate March,15,115
+E50,Refugio oil spill,47,107
+E51,West African Ebola virus epidemic,261,34
+E52,2014 Elk River chemical spill,32,19
+E53,2014 Vietnam anti-China protests,24,25
+E54,2015 FIFA corruption case,109,28
+E55,2015 Kohler strike,13,43
+E56,2015 Nepal blockade,68,369
+E57,Ebola virus cases in the United States,164,21
+E58,2015 Southeast Asian haze,101,13
+E59,2015-16 protests in Moldova,62,26
+E60,2015-16 Zika virus epidemic,139,68
+E61,Aliso Canyon gas leak,53,30
+E62,Anti-austerity movement in the United Kingdom,46,541
+E63,Central African Republic Civil War (2012-present),191,100
+E64,Belfast City Hall flag protests,88,97
+E65,Northern Mali conflict,254,24
+E66,2013 horse meat scandal,89,22
+E67,Vauxhall helicopter crash,19,261
+E68,June 2013 Egyptian protests,149,170
+E69,Cyclone Oswald,24,58
+E70,2015 G20 Antalya summit,10,1000
+E71,65th FIFA Congress,14,11
+E72,2013 Africa Cup of Nations,23,71
+E73,February 2013 nor'easter,34,18
+E74,2013 Shahbag protests,87,202
+E75,2012-13 UEFA Champions League,23,90
+E76,7th Summit of the Americas,10,47
+E77,Third GECF summit,11,19
+E78,2015 United Nations Climate Change Conference,40,1100
+E79,73rd World Science Fiction Convention,24,398
+E80,2013 Hyderabad blasts,37,34
+E81,85th Academy Awards,59,399
+E82,"Kenyan general election, 2013",66,11
+E83,19 March 2013 Iraq attacks,11,72
+E84,2013 NCAA Men's Division I Basketball Tournament,16,294
+E85,Boston Marathon bombing,280,272
+E86,2013 Savar building collapse,86,125
+E87,2012-13 Iraqi protests,51,63
+E88,2013 Stanley Cup playoffs,11,399
+E89,Kurdish-Turkish conflict (2015-present),82,390
+E90,Operation Barkhane,32,97
+E91,Burundian unrest (2015-present),76,30
+E92,Insurgency in the North Caucasus,18,15
+E93,Military intervention against ISIL,436,1154
+E94,Operation Khyber,21,16
+E95,Rojava conflict,47,127
+E96,South Sudanese Civil War,259,20
+E97,2013 Cannes Film Festival,42,399
+E98,2013 European floods,22,69
+E99,Gezi Park protests,312,67
+E100,2014 FIFA World Cup,111,81
+E101,2013 NBA Finals,28,213
+E102,2013 North India floods,51,16
+E103,2013 Alberta floods,45,100
+E104,2013 protests in Brazil,43,388
+E105,2013 Wimbledon Championships,23,76
+E106,Santiago de Compostela derailment,24,124
+E107,2013 World Championships in Athletics,38,70
+E108,Taliban insurgency,129,850
+E109,Turkey-ISIL conflict,12,90
+E110,War in Afghanistan (2015-present),507,167
+E111,War in Donbass,122,32
+E112,65th Berlin International Film Festival,18,81
+E113,20th Busan International Film Festival,11,105
+E114,2015 Cannes Film Festival,59,508
+E115,2015 Deauville American Film Festival,10,340
+E116,2015 Metro Manila Film Festival,17,109
+E117,2015 Sundance Film Festival,11,396
+E118,2015 Toronto International Film Festival,11,314
+E119,72nd Venice International Film Festival,31,1045
+E120,Sanremo Music Festival 2015,50,21
+E121,"Australian federal election, 2013",106,117
+E122,Post-coup unrest in Egypt (2013-2014),160,106
+E123,2013 All-Ireland Senior Hurling Championship Final,82,73
+E124,Zamboanga City crisis,46,33
+E125,Westgate shopping mall attack,81,13
+E126,65th Primetime Emmy Awards,12,176
+E127,2013 Bohol earthquake,33,170
+E128,2013 New South Wales bushfires,51,80
+E129,2013 Los Angeles International Airport shooting,38,15
+E130,Typhoon Haiyan,180,286
+E131,Destruction of Syria's chemical weapons,121,12
+E132,"Malian parliamentary election, 2013",10,60
+E133,2013 Rugby League World Cup,46,353
+E134,2013 Glasgow helicopter crash,32,93
+E135,Melodifestivalen 2015,13,239
+E136,Untold Festival,11,398
+E137,Binibining Pilipinas 2015,12,297
+E138,Miss Earth 2015,20,38
+E139,2015 Chattanooga shootings,67,33
+E140,Miss Universe 2015,59,369
+E141,Miss International 2015,22,40
+E142,Miss USA 2015,45,397
+E143,2015 Bangkok bombing,51,154
+E144,2015 Copenhagen shootings,45,80
+E145,Duma arson attack,63,16
+E146,Garissa University College attack,28,83
+E147,2015 Kuwait mosque bombing,34,11
+E148,Mamasapano clash,48,92
+E149,Death of Nelson Mandela,116,254
+E150,2014 Winter Olympics,105,261
+E151,56th Annual Grammy Awards,17,242
+E152,2015 San Bernardino attack,251,58
+E153,2015 Ramadan attacks,19,39
+E154,Charlie Hebdo shooting,235,399
+E155,November 2015 Paris attacks,239,397
+E156,Saint-Quentin-Fallavier attack,21,17
+E157,2015 Thalys train attack,89,35
+E158,2015 Ankara bombings,94,76
+E159,67th British Academy Film Awards,11,275
+E160,2014 Brit Awards,17,232
+E161,Asiana Airlines Flight 214,99,60
+E162,2014 Kunming attack,38,10
+E163,2014 Winter Paralympics,39,151
+E164,"New Zealand general election, 2014",67,17
+E165,"South African general election, 2014",88,19
+E166,"Indian general election, 2014",302,69
+E167,Soma mine disaster,46,39
+E168,2014 California wildfires,50,26
+E169,"European Parliament election, 2014",69,112
+E170,"United Kingdom local elections, 2014",12,13
+E171,2014 Isla Vista killings,91,100
+E172,"Egyptian presidential election, 2014",79,122
+E173,2015 Gurdaspur attack,21,14
+E174,2015 kidnapping and beheading of Copts in Libya,31,30
+E175,Bardo National Museum attack,57,11
+E176,2015 Sousse attacks,62,15
+E177,Charleston church shooting,170,412
+E178,Umpqua Community College shooting,72,62
+E179,Death of Freddie Gray,135,398
+E180,Bill Cosby sexual assault allegations,333,80
+E181,Swiss Leaks,16,21
+E182,Death of Sandra Bland,62,400
+E183,Planned Parenthood 2015 undercover videos controversy,97,18
+E184,Shooting of Tony Robinson,11,21
+E185,Shooting of Kathryn Steinle,72,109
+E186,2014 Tour de France,70,227
+E187,2014 Commonwealth Games,76,195
+E188,Northern Iraq offensive (August 2014),43,100
+E189,Shooting of Michael Brown,194,125
+E190,2014 Summer Youth Olympics,17,100
+E191,January 2015 North American blizzard,27,143
+E192,Hurricane Linda (2015),13,19
+E193,"May 5-10, 2015 tornado outbreak sequence",18,18
+E194,66th Primetime Emmy Awards,20,41
+E195,"United States Senate election in Kentucky, 2014",61,91
+E196,2014 pro-Russian unrest in Ukraine,315,41
+E197,"Scottish independence referendum, 2014",382,112
+E198,Hurricane Norbert (2014),32,48
+E199,"United States elections, 2014",38,100
+E200,"Romanian presidential election, 2014",41,124
+E201,2014 Pacific typhoon season,43,17
+E202,Marysville Pilchuck High School shooting,60,42
+E203,"Ukrainian parliamentary election, 2014",28,20
+E204,2015 Shoreham Airshow crash,57,54
+E205,Valhalla train crash,51,23
+E206,2015 Philadelphia train derailment,57,283
+E207,Storm Desmond,27,400
+E208,Storm Eva,12,77
+E209,Typhoon Chan-hom (2015),12,105
+E210,Typhoon Soudelor,23,398
+E211,Typhoon Melor,13,23
+E212,2014 Iguala mass kidnapping,116,41
+E213,2014 NASCAR Sprint Cup Series,60,207
+E214,"Tunisian presidential election, 2014",50,73
+E215,World Chess Championship 2014,39,56
+E216,2014 Formula One season,67,207
+E217,Ferguson unrest,197,184
+E218,Typhoon Noul (2015),11,22
+E219,Bento Rodrigues dam disaster,29,18
+E220,2015 Pakistan heat wave,12,126
+E221,October 2015 Hindu Kush earthquake,25,18
+E222,2015 Assam floods,27,37
+E223,2015 Esperance bushfires,42,10
+E224,2015 Pinery bushfire,24,25
+E225,2015 Sampson Flat bushfires,20,283
+E226,Death of Eric Garner,119,176
+E227,2014 Sydney hostage crisis,193,32
+E228,2014 Peshawar school massacre,62,11
+E229,2014 killings of NYPD officers,56,39
+E230,2015 Sabah earthquake,46,102
+E231,Colectiv nightclub fire,85,745
+E232,Mecca crane collapse,44,10
+E233,2015 Accra floods,14,33
+E234,86th Academy Awards,50,90
+E235,19th Empire Awards,10,100
+E236,Typhoon Goni (2015),13,413
+E237,Typhoon Maysak (2015),12,34
+E238,2014 Sundance Film Festival,58,186
+E239,2014 Cannes Film Festival,46,170
+E240,71st Venice International Film Festival,33,159
+E241,2014 Toronto International Film Festival,12,136
+E242,72nd Golden Globe Awards,17,162
+E243,Cyclone Winston,50,400
+E244,Cyclone Pam,49,400
+E245,Cyclone Lam,15,25
+E246,Cyclone Marcia,13,399
+E247,Tropical Storm Chedza,10,28
+E248,Cyclone Ita,16,119
+E249,57th Annual Grammy Awards,16,280
+E250,2014 Nepal snowstorm disaster,12,32
+E251,"June 16-18, 2014 tornado outbreak",13,12
+E252,2014 London Marathon,12,120
+E253,Hurricane Patricia,39,299
+E254,Tropical Storm Bill (2015),28,237
+E255,Tropical Storm Erika,75,421
+E256,Hurricane Joaquin,92,397
+E257,Cyclone Chapala,26,19
+E258,Cyclone Komen,37,21
+E259,"New Zealand flag referendums, 2015-16",65,27
+E260,69th Tony Awards,12,361
+E261,2014 ICC World Twenty20,12,383
+E262,67th Primetime Emmy Awards,16,375
+E263,"Myanmar general election, 2015",24,35
+E264,73rd Golden Globe Awards,15,240
+E265,2014 Ryder Cup,27,124
+E266,2014 Grand National,11,47
+E267,2014 Kentucky Derby,11,100
+E268,2014 Asian Le Mans Series,10,40
+E269,Survivor Series (2015),24,227
+E270,Night of Champions (2015),25,11
+E271,Hell in a Cell (2015),24,11
+E272,Royal Rumble (2012),13,351
+E273,Battleground (2014),14,202
+E274,Extreme Rules (2012),43,400
+E275,WrestleMania 31,58,700
+E276,2014 Blancpain Sprint Series,16,206
+E277,2014 Eurocup Formula Renault 2.0,17,100
+E278,2014 EuroV8 Series,15,34
+E279,2014 GP2 Series,30,105
+E280,SummerSlam (2015),28,397
+E281,Elimination Chamber (2015),17,24
+E282,Extreme Rules (2014),14,20
+E283,Wrestle Kingdom 10,46,40
+E284,2014 GP3 Series,34,181
+E285,2014 MotoGP season,55,126
+E286,2014 24 Hours of Le Mans,63,131
+E287,2014 World Rally Championship,23,131
+E288,2014 FIA World Rallycross Championship,17,200
+E289,2014 World Touring Car Championship,40,164
+E290,2015 FIVB Beach Volleyball World Tour,33,27
+E291,UAAP Season 78 volleyball tournaments,10,59
+E292,2015 Ironman World Championship,13,74
+E293,2014 National Rugby Championship,38,57
+E294,2015 Davis Cup,14,555
+E295,2015 US Open (tennis),14,399
+E296,2015 Australian Open,16,398
+E297,2015 ATP World Tour Finals,24,399
+E298,2015 French Open,10,399
+E299,2013 Sundance Film Festival,12,100
+E300,2013 MTV Video Music Awards,15,160
+E301,2013 BCS National Championship Game,15,131
+E302,2013 World Series,44,100
+E303,Logie Awards of 2013,10,18
+E304,Miss Universe 2013,58,116
+E305,Electronic Entertainment Expo 2013,10,86
+E306,2013 heatwave in Ireland and the United Kingdom,17,20
+E307,December 2013 North American storm complex,46,58
+E308,St. Jude storm,101,26
+E309,2015 WTA Finals,14,398
+E310,2013 FIFA Confederations Cup,20,80
+E311,2013 European Cross Country Championships,12,17
+E312,2013 IPC Athletics World Championships,30,31
+E313,2013 FIBA Asia Championship,14,216
+E314,2015 National Rugby Championship,43,273
+E315,2014-15 English Premiership (rugby union),136,399
+E316,2014-15 European Rugby Challenge Cup,16,226
+E317,2014-15 European Rugby Champions Cup,10,398
+E318,2014-15 Pro12,15,398
+E319,2015 Rugby World Cup,75,398
+E320,2015 Six Nations Championship,30,28
+E321,2013 Champions League Twenty20,21,15
+E322,2013 Masters Tournament,18,147
+E323,2013 PGA Championship,10,110
+E324,2015 Oceania Rugby Under 20 Championship,18,37
+E325,2013 Open Championship,18,49
+E326,2013 Presidents Cup,15,67
+E327,2013 Seve Trophy,10,543
+E328,2015 MotoGP season,76,49
+E329,The Boat Races 2015,49,114
+E330,2015 24 Hours of Le Mans,62,1145
+E331,2015 World Rally Championship,34,405
+E332,2015 World Touring Car Championship,31,1368
+E333,2015 FIA World Endurance Championship,37,399
+E334,2015 Eurocup Formula Renault 2.0,25,398
+E335,2015 Race of Champions,14,171
+E336,2015 Formula Renault 3.5 Series,25,1094
+E337,2015 Formula Renault 2.0 Alps season,14,359
+E338,2014-15 Formula E season,17,1296
+E339,2015 GP2 Series,34,788
+E340,2015 GP3 Series,19,153
+E341,2015 IndyCar Series,43,935
+E342,2015 European Le Mans Series,12,511
+E343,2013 Grand National,11,18
+E344,2013 Melbourne Cup,11,114
+E345,2015 Blancpain Sprint Series,20,398
+E346,2015 Blancpain Endurance Series,39,398
+E347,2013 Eurocup Formula Renault 2.0,15,11
+E348,2013 Formula Renault 3.5 Series,18,158
+E349,2013 GP2 Series,29,171
+E350,2013 GP3 Series,38,24
+E351,2013 FIA GT Series,13,143
+E352,2013 International V8 Supercars Championship,115,46
+E353,2013 24 Hours of Le Mans,54,91
+E354,2015 NHL Entry Draft,70,25
+E355,2015 Stanley Cup Finals,25,797
+E356,60th National Hockey League All-Star Game,16,224
+E357,2014-15 Champions Hockey League,14,33
+E358,2013 FIA World Endurance Championship,18,64
+E359,2013 World Rally Championship,55,28
+E360,2013 World Touring Car Championship,18,83
+E361,2013 in rugby league,20,21
+E362,2013 International Rugby Union matches,97,100
+E363,2015 Belmont Stakes,12,255
+E364,2015 Melbourne Cup,11,111
+E365,2013 US Open (tennis),14,429
+E366,2015 U.S. Open (golf),19,104
+E367,2015 Masters Tournament,19,11
+E368,The International 2015,10,334
+E369,2013 World Matchplay (darts),13,33
+E370,2015 UCI Road World Championships,10,260
+E371,2015 Tour of California,50,399
+E372,2013 State of the Union Address,25,11
+E373,2014 Indian Premier League,38,14
+E374,Death of Alan Kurdi,69,29
+E375,Manchester Arena bombing,120,206
+E376,Super Bowl LII,115,118
+E377,Mexican Drug War,192,340
+E378,2018 Winter Olympics,88,325
+E379,Kashmir conflict,321,120
+E380,2017-2018 Iranian protests,161,88
+E381,2017 World Series,100,99
+E382,Protests against Donald Trump,119,130
+E383,2017 Venezuelan protests,98,154
+E384,June 2017 London Bridge attack,129,531
+E385,Grenfell Tower fire,381,96
+E386,Hurricane Irma,210,153
+E387,2013 Ukraine pro-European Union protests,203,286
+E388,2003 invasion of Iraq,181,112
+E389,Protests against the Iraq War,58,122
+E390,Iraq War,266,399
+E391,September 11 attacks,169,151
+E392,2004 Indian Ocean earthquake and tsunami,79,510
+E393,2009 flu pandemic,78,212
+E394,Tunisian Revolution,147,39
+E395,Occupy Wall Street,216,391
+E396,Malaysia Airlines Flight 370,287,117
+E397,2015 Baltimore protests,124,295
+E398,2010 Haiti earthquake,157,447
+E399,January 2016 United States blizzard,98,135
+E400,Iowa flood of 2008,13,259
+E401,2010 Pakistan floods,197,461
+E402,2011 Missouri River Flood,67,114
+E403,2011 Thailand floods,31,155
+E404,2016 Louisiana floods,56,105
+E405,2017 Somalian drought,16,38
+E406,Cape Town water crisis,41,126
+E407,2018 Sulawesi earthquake and tsunami,46,304
+E408,2018 Hualien earthquake,12,42
+E409,2018 Attica wildfires,24,28
+E410,2018 Sweden wildfires,12,29
